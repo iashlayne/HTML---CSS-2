@@ -1,0 +1,30 @@
+/* this is a comment for css */
+
+/* this the background of html */
+
+html {
+    background: #eeeeee;
+}
+
+/* in our html file we called class named "titlecss" it means this section is the style for the title  */
+.titlecss{
+    font-size: 35px; 
+    color: #ff0000; 
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: underline
+}
+
+/* this indicates style of the paragraph of the html - first, second, third, fourth and fifth paragraph */
+p{
+    font-size: 18px; 
+    color: #111111; 
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+/* this indicates style of the last paragraph to show the difference */
+.greenP{
+    font-size: 18px; 
+    color: #00ff00; 
+    font-weight: 700; 
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
